@@ -53,4 +53,5 @@ I showcase my cybersecurity skills and dedication through practical projects, ai
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/FrezsSec/SOC-Lab-with-SIEM-and-SOAR-Automation">Comprehensive SOC Lab with SIEM and SOAR Automation
+</a> 
