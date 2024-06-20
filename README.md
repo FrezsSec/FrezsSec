@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-EjPTv2-3498DB?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-eLearnSecurity%20Junior%20Penetration%20Tester%20(eJPTv2)-3498DB?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
