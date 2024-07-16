@@ -45,7 +45,8 @@ Welcome to my GitHub portfolio! Here, you'll find projects showcasing my skills 
 </div>
 
 ## Projects
-- <a href="https://github.com/FrezsSec/Setting-Up-OPNsense-Firewall-with-Suricata-IDS-IPS">Setting Up OPNsense Firewall with Suricata IDS/IPS
+
 - <a href="https://github.com/FrezsSec/SOC-Automation-Environment-Setup-with-Wazuh-TheHive-and-Shuffle">SOC Automation Environment Setup with Wazuh, TheHive, and Shuffle
 - <a href="https://github.com/FrezsSec/Cybersecurity-Lab-Security-Monitoring-Attack-Simulation">Cybersecurity Lab: Security Monitoring & Attack Simulation
+- <a href="https://github.com/FrezsSec/Setting-Up-OPNsense-Firewall-with-Suricata-IDS-IPS">Setting Up OPNsense Firewall with Suricata IDS/IPS
 </a> 
