@@ -1,18 +1,11 @@
 # Hello, I'm FrezsSec
-Welcome to my GitHub portfolio! Here, you'll find projects showcasing my skills and interests in cybersecurity.
-
-## Objective
-I showcase my cybersecurity skills and dedication through practical projects, aiming to highlight my capabilities for prospective opportunities.
+Welcome to my GitHub portfolio! Here, you'll find projects showcasing my skills and interests in cybersecurity. I showcase my cybersecurity skills and dedication through practical projects, aiming to highlight my capabilities for prospective opportunities.
 ## Skills
+                                       
+- SIEM Implementation and Log Analysis          
+- Network Traffic Monitoring and Attack Detection 
+- Vulnerability Assessment
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 ### SIEM
@@ -26,7 +19,6 @@ I showcase my cybersecurity skills and dedication through practical projects, ai
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-054FA2?&style=for-the-badge&logo=TCPDump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EC5840?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Penetration Testing
@@ -49,9 +41,11 @@ I showcase my cybersecurity skills and dedication through practical projects, ai
 <div>
     <img src="https://img.shields.io/badge/-eLearnSecurity%20Junior%20Penetration%20Tester%20(eJPTv2)-3498DB?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?style=for-the-badge&logo=Google&logoColor=white&color=FF0000" />
+    
 </div>
 
 ## Projects
 - <a href="https://github.com/FrezsSec/Setting-Up-OPNsense-Firewall-with-Suricata-IDS-IPS">Setting Up OPNsense Firewall with Suricata IDS/IPS
-- <a href="https://github.com/FrezsSec/SOC-Lab-with-SIEM-and-SOAR-Automation">Comprehensive SOC Lab with SIEM and SOAR Automation
+- <a href="https://github.com/FrezsSec/SOC-Automation-Environment-Setup-with-Wazuh-TheHive-and-Shuffle">SOC Automation Environment Setup with Wazuh, TheHive, and Shuffle
+- <a href="https://github.com/FrezsSec/Cybersecurity-Lab-Security-Monitoring-Attack-Simulation">Cybersecurity Lab: Security Monitoring & Attack Simulation
 </a> 
